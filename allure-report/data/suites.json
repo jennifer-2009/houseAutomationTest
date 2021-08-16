@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "tests.newHome",
+    "children" : [ {
+      "name" : "test_search_new_home",
+      "children" : [ {
+        "name" : "TestSearch",
+        "children" : [ {
+          "name" : "Login with valid data test",
+          "uid" : "e8a129d3afb30722",
+          "parentUid" : "32710f4b8e23a41c07d976a086586dad",
+          "status" : "failed",
+          "time" : {
+            "start" : 1629070947756,
+            "stop" : 1629070951801,
+            "duration" : 4045
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "32710f4b8e23a41c07d976a086586dad"
+      } ],
+      "uid" : "9a1fabcee6f7a192897257b90a05c518"
+    } ],
+    "uid" : "bc4bb0d258d8b7125a417e68085a3005"
+  } ]
+}

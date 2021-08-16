@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "jennifers-Mac-mini.local",
+    "children" : [ {
+      "name" : "49959-MainThread",
+      "children" : [ {
+        "name" : "Login with valid data test",
+        "uid" : "e8a129d3afb30722",
+        "parentUid" : "c5e3ef3381bcb29174a9ccf83ae1523f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1629070947756,
+          "stop" : 1629070951801,
+          "duration" : 4045
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c5e3ef3381bcb29174a9ccf83ae1523f"
+    }, {
+      "name" : "47752-MainThread",
+      "children" : [ {
+        "name" : "test_search_without_autocomplete",
+        "uid" : "bd0fda416620b881",
+        "parentUid" : "03bf6e6714b303de954f16443020a0f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629066000037,
+          "stop" : 1629066003508,
+          "duration" : 3471
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "03bf6e6714b303de954f16443020a0f1"
+    }, {
+      "name" : "49867-MainThread",
+      "children" : [ {
+        "name" : "Login with valid data test",
+        "uid" : "2c925a889574dabe",
+        "parentUid" : "a574b0b0c15eeabb195f51b438c56849",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629070867699,
+          "stop" : 1629070870893,
+          "duration" : 3194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a574b0b0c15eeabb195f51b438c56849"
+    }, {
+      "name" : "49729-MainThread",
+      "children" : [ {
+        "name" : "Login with valid data test",
+        "uid" : "18938a9aa9a172d5",
+        "parentUid" : "49f9736e9bbacf2a7c51fbffb879060d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629070592539,
+          "stop" : 1629070595971,
+          "duration" : 3432
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "49f9736e9bbacf2a7c51fbffb879060d"
+    } ],
+    "uid" : "8e9eea1a55e5020165a67ac0579c8459"
+  } ]
+}

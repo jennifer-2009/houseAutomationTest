@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e8a129d3afb30722",
+  "name" : "Login with valid data test",
+  "time" : {
+    "start" : 1629070947756,
+    "stop" : 1629070951801,
+    "duration" : 4045
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

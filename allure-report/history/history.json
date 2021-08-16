@@ -1,0 +1,22 @@
+{
+  "a422a74b6643a2790f26b572769d684a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e8a129d3afb30722",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'toronto' in 'filter_result'\n +  where 'toronto' = <built-in method lower of str object at 0x7fb2979870b0>()\n +    where <built-in method lower of str object at 0x7fb2979870b0> = 'toronto'.lower",
+      "time" : {
+        "start" : 1629070947756,
+        "stop" : 1629070951801,
+        "duration" : 4045
+      }
+    } ]
+  }
+}
